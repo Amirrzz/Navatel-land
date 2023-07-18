@@ -21,5 +21,5 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ["@nuxt/image", "@nuxtjs/device"],
+  modules: ["@nuxt/image", "nuxt-icon"],
 });

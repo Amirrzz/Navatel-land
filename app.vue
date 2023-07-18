@@ -16,7 +16,6 @@ main{
     "content content content"
     "side side side"
     "foot foot foot";
-    transition: 0.5s;
 }
 
 @media (min-width: 640px)  {
