@@ -24,6 +24,7 @@ main{
     "head head head head head side"
     "content content content content content side"
     "foot foot foot foot foot side";
+    min-height: 58vh;
 }
 }
 
