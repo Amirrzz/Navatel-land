@@ -6,7 +6,7 @@
       <div class=" sm:border-l-[2px]  border-l-blue-dark p-4  sm:w-1/3">
         <div class="text-lg text-blue-dark font-bold my-10 sm:text-3xl">
           به کسب و کار
-          <sapn class="circle-gold-background ">بهتریی</sapn> تبدیل شوید
+          <span class="circle-gold-background ">بهتریی</span> تبدیل شوید
         </div>
         <div
           class="text-base ont-bold flex justify-start flex-row-reverse align-baseline text-blue-light arrow-after relative"
